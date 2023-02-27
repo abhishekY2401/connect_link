@@ -38,7 +38,7 @@ const Sidebar = () => {
       <Section icon={Profile} section="Profile" />
       <Section icon={Messages} section="Messages" />
       <Section icon={Connections} section="Connections" />
-      <Section icon={Promotions} section="Promotions & Advertising" />
+      <Section icon={Promotions} section="Promotion & Advertising" />
       <Section icon={Integrations} section="Integrations" />
      </div>
 
